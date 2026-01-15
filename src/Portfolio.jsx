@@ -31,7 +31,7 @@ export default function Portfolio() {
       {
         title: 'Brown Rocketry: Avionics Lead',
         description: 'Constructed a complete avionics payload for high-powered rocketry using a Raspberry Pi, integrating a gyroscope, altimeter, landing siren, and onboard camera; soldered components and programmed flight data collection, culminating in a successful launch and full recovery. Researched and optimized fin, nose, and body geometries for flight performance and implemented the final designs using molded fiberglass structures. Recently accepted into the Intercollegiate Rocket Engineering Competition 2026 competition and preparing to compete in the upcoming cycle.',
-        image: 'public/images/brown.jpg',
+        image: '/space-portfolio/images/brown.jpg',
         link: 'https://www.instagram.com/brownrocketry/'
       },
       {
