@@ -18,7 +18,7 @@ export default function Portfolio() {
     projects: [
       {
         title: 'T-REX: Time Resolving Satellite Lab Co-Founder',
-        description: 'I am the Co-founder of a research lab developing novel methods of black hole observation. I help lead the team to design our satellite system and architecture to fit our mission parameters. We have been accepted into the final round of the NASA NIAC research grant to develop early innovative space technology concepts. I have experience doing mathematical simulations and engineering models using Python, MATLAB, and Fusion 360, in addition to grant writing, conference speaking, and managing a team. I facilitate collaboration with experts in deep space observation, quantum technology, and spacecraft construction.',
+        description: 'Co-founded a research lab designing and building a small form factor, inexpensive next-generation LEO black hole observation satellite. Satellite will enable cutting-edge time resolution of celestial targets, along with extending existing VLBI baselines. • Accepted into final round of the NASA NIAC Innovative Technology Development Program for research funding. • Researched, Modeled, and Simulated Spacecraft Bus and Radio Antenna design • Designed laser data downlink scheme capable of 100 Gbps space-to-earth for high-volume VLBI observation. Presented to MIT Lincoln Lab and entered preliminary talks for the supply of TBIRD data downlink satellite derivative. • Simulated Radio Receiver thermal performance and requirements for 86-150 GHz Deep Space Radio Observation. Under NDA with supplier for 15 Kelvin capable cryocooler. Integrated cryocooler into T-REX’s OTS Blue Canyon Bus design. • Optimized radio antenna diameter and surface RMS error versus cost for minimum required integration time for black hole, AGN, and pulsar targets. Organized an independent study of antenna dynamics and construction this semester. • Coordinated Research with Academia and Industry • Developed quantum entangled data transfer schemes with researchers from the University of Australia. Drafted spacecraft design with researchers and engineers from Princeton and JPL. Planned black hole observation campaigns with StSci.',
         image: 'https://cdn.b12.io/client_media/PDpwHsnx/79f7f6a2-12a5-11f0-89b6-0242ac110002-origin.jpg',
         link: 'https://trexsat.org'
       },
@@ -77,7 +77,7 @@ export default function Portfolio() {
         link: 'https://indico.chalmers.se/event/295/contributions/844/'
       }
     ],
-    resumePdf: 'https://drive.google.com/file/d/1tAjzhrG2ZFPiZR1zPntG9XqfSYJMH4AY/preview'
+    resumePdf: 'https://drive.google.com/file/d/1Q-5UVxQKiSIUYJN7HTOXqS4fhItR7m82/preview'
   });
 
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
