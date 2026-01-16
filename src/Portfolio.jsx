@@ -75,7 +75,6 @@ export default function Portfolio() {
         title: 'Conference',
         heading: 'IAU Symposium No. 405',
         content: "T-REX team invited to present the T-REX mission concept at the 405th IAU Symposium in the Czech Republic.",
-        link: 'https://indico.chalmers.se/event/295/contributions/844/'
       }
     ],
     resumePdf: 'https://drive.google.com/file/d/1Q-5UVxQKiSIUYJN7HTOXqS4fhItR7m82/preview'
