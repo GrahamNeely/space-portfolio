@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/space-portfolio/static/css/main.47f15d78.css",
-    "main.js": "/space-portfolio/static/js/main.fbf1bf05.js",
+    "main.css": "/space-portfolio/static/css/main.09e6cb8f.css",
+    "main.js": "/space-portfolio/static/js/main.afbdcf68.js",
     "static/js/453.0ccb7a75.chunk.js": "/space-portfolio/static/js/453.0ccb7a75.chunk.js",
     "static/media/headshot.jpg": "/space-portfolio/static/media/headshot.62b13f07dbcac46382d4.jpg",
     "static/media/bse-balloon-1.jpg": "/space-portfolio/static/media/bse-balloon-1.65318ddb3ac53dad6f34.jpg",
@@ -9,12 +9,12 @@
     "static/media/bse-pvdx.jpg": "/space-portfolio/static/media/bse-pvdx.da86a85e34991ab7f29f.jpg",
     "static/media/brown.jpg": "/space-portfolio/static/media/brown.412d20e756329407bd5c.jpg",
     "index.html": "/space-portfolio/index.html",
-    "main.47f15d78.css.map": "/space-portfolio/static/css/main.47f15d78.css.map",
-    "main.fbf1bf05.js.map": "/space-portfolio/static/js/main.fbf1bf05.js.map",
+    "main.09e6cb8f.css.map": "/space-portfolio/static/css/main.09e6cb8f.css.map",
+    "main.afbdcf68.js.map": "/space-portfolio/static/js/main.afbdcf68.js.map",
     "453.0ccb7a75.chunk.js.map": "/space-portfolio/static/js/453.0ccb7a75.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47f15d78.css",
-    "static/js/main.fbf1bf05.js"
+    "static/css/main.09e6cb8f.css",
+    "static/js/main.afbdcf68.js"
   ]
 }
